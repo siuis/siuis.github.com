@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://siuis.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://siuis.github.com
+title: 不甚了了|Siuis
+subtitle: Too young,too simple,sometimes naive.
+author: Siuis
 simple_search: http://google.com/search
-description:
+description: 你不能把这个世界，让给你所鄙视的人。 ——安·兰德
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
